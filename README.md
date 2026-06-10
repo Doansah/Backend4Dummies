@@ -19,7 +19,8 @@ All of this communication happens through HTTP requests:
 
 The Client is the computer / server making the initial request. It's you googling "free flights" at 12am. 
 
-The Server is the one **recieveing** the request. 
+The Server is the one **recieving** the request. 
 
 *To be clear, servers can/do act as clients, and clients can act as servers as well. The distinction betweeen the two typically is what first triggers in the data transaction between the two devices* 
+
 
