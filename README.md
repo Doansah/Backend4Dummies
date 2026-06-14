@@ -10,10 +10,15 @@ The first question, I'd like to begin with is:
 
 ### The Client Server Model 
 
+[Source](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)
+
+
 
 I want you to imagine a web, and on these web there are nodes, and connections between them. *The Internet*  is these entire web, and **computers** are the nodes.
 
-When you try and connect to another website, your simply trying to connect to another server, and retrieve some information. 
+More Specifically, computers connected to the internet are called clients and servers. 
+
+When you (the client) try to connect to anothe website on the internet, you send a request to a server. Servers are simply other computers that store webpages, sites, or appliacations, typically when a client wants to access a webiste, a copy of the webpage code is sent ot the client machine, where it is rended by the browser and displayed by the user.  
 
 All of this communication happens through HTTP requests: 
 
