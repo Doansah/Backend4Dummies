@@ -1,8 +1,8 @@
 ### Customization!
 
-There are a ton  ways you can customize your terminal. 
+There are a ton of ways you can customize your terminal. 
 
-Here's a few of my favourite configuration shcemes:
+Here's a few of my favourite configuration schemes:
 
 *I'm a Unix guy, so irrespective of the OS, I stay away from powershell (hence the gitbash).*
 
@@ -32,7 +32,7 @@ Here's what it looks like
 On my Macbook, I run ghostty and have a more complex setup: 
 
 - zshell 
-- power10k 
+- powerlevel10k 
  
 
 
