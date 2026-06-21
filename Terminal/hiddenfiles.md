@@ -44,10 +44,6 @@ ls -la
 
 ***Protip:*** in Finder on Mac you can toggle hidden files with `Cmd + Shift + .`
 
-### Wait, why are they hidden in the first place? (fun history)
-
-Here's a "huh, neat" one: dotfiles being hidden was originally an **accident**. Early Unix `ls` wanted to skip the `.` and `..` entries (the current/parent directory shortcuts), so it just hid anything starting with a dot. People realized they could abuse that to hide clutter, and the whole convention was born. It's a happy bug, basically.
-
 ### Why are hidden files (and directories) important?
 
 These are the contexts I've found them relevant in software engineering:
